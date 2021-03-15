@@ -1,0 +1,8 @@
+An Expression is a piece of code that produces a value
+i.e. "*" * 3 = ***
+
+Syntax Error is an error is due to bad syntax/grammar in code
+
+A linter checks our code for potential errors
+
+
